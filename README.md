@@ -21,10 +21,11 @@ Este site apresenta meu portfólio como Desenvolvedor Júnior, com informações
 
 ## 🚀 Deploy
 
-🔗 Link do site publicado: 
+🔗 Link do site publicado: https://portfolio-clara.onrender.com
 
 ## 🙋 Informações
 
-**Seu Nome Completo**
+**Maria Clara Leitão Rito**
 Curso: Análise e Desenvolvimento de Sistemas
 Período: 1º
+
